@@ -1,0 +1,22 @@
+# Distribution / packaging
+MANIFEST
+
+# pyenv
+.python-version
+
+# PEP 582
+__pypackages__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pickle
+
+recent-input.pydata
+recent-output.pydata

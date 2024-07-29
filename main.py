@@ -32,7 +32,7 @@ def upperCase():
 	return inputString.upper()
 
 def titleCase():
-	inputString = input('String you want to be title-case: ')
+	inputString = input('String you want to be title case: ')
 	return inputString.title()
 
 def lowerCase():

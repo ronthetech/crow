@@ -3,7 +3,7 @@
 
 # crow
 <p  align="center">
-  <img width="150" src="https://raw.githubusercontent.com/ronthetech/image-repo/main/crow-cli.jpg" alt="crow cli">
+  <img width="150" src="https://github.com/ronthetech/image-repo/blob/42d66d8a61c3933ca2f5326f1279978ce3868586/crow-cli.jpg" alt="crow cli">
 </p>
 Useful cli for data entry, data cleansing, etc.
 </pre>

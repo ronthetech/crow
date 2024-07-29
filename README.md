@@ -9,7 +9,7 @@ Useful cli for data entry, data cleansing, etc.
 </pre>
 </div>
 
-## Usage Example
+## Usage
 
 Open a terminal from the directory where the folder is saved, or open a terminal and navigate to the directory where the folder is saved.
 Select the mode to determine the format that will be output. Type in a string as input, typically a color code followed by some color combination.

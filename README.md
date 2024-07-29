@@ -14,45 +14,34 @@ Useful cli for data entry, data cleansing, etc.
 Open a terminal from the directory where the folder is saved, or open a terminal and navigate to the directory where the folder is saved.
 Select the mode to determine the format that will be output. Type in a string as input, typically a color code followed by some color combination.
 
+<p  align="center">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/008d23099d9f9ab976223b02ed8b2829e1298223/crow/crow-1.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/008d23099d9f9ab976223b02ed8b2829e1298223/crow/crow-2.png" alt="crow cli">
+</p>
+
 ### Uppercase
 
-```sh
-C:\> python main.py
-1
-Some Color - Another Color- Third Color
-```
-
-For upper case, hit enter and the output will look like:
-
-```sh
-SOME COLOR/ANOTHER COLOR/THIRD COLOR
-```
+<p  align="center">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/008d23099d9f9ab976223b02ed8b2829e1298223/crow/crow-up-1.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/29aac398d715df02c409a76e92a3686c2abe2467/crow/crow-up-2.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/29aac398d715df02c409a76e92a3686c2abe2467/crow/crow-up-3.png" alt="crow cli">
+</p>
 
 ### Title Case
 
-```sh
-C:\> python main.py
-2
-SOME COLOR/ANOTHER COLOR
-```
-For title case, hit enter and the output will look like:
-
-```sh
-Some Color/Another Color
-```
+<p  align="center">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/11a0d8d9af7bbbd709f01b421a1c78e2aef5a6fc/crow/crow-title-1.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/11a0d8d9af7bbbd709f01b421a1c78e2aef5a6fc/crow/crow-title-2.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/11a0d8d9af7bbbd709f01b421a1c78e2aef5a6fc/crow/crow-title-3.png" alt="crow cli">
+</p>
 
 ### Lowercase
 
-```sh
-C:\> python main.py
-3
-SOME COLOR/ANOTHER COLOR
-```
-For lower case, hit enter and the output will look like:
-
-```sh
-some color/another Color
-```
+<p  align="center">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/9e0e78063f41bec37f61e1765fc72a7b1b733985/crow/crow-low-1.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/9e0e78063f41bec37f61e1765fc72a7b1b733985/crow/crow-low-2.png" alt="crow cli">
+  <img width="400" src="https://github.com/ronthetech/image-repo/blob/9e0e78063f41bec37f61e1765fc72a7b1b733985/crow/crow-low-3.png" alt="crow cli">
+</p>
 
 ## Meta
 

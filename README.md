@@ -2,6 +2,9 @@
 <pre>
 
 # crow
+<p  align="center">
+  <img width="150" src="https://raw.githubusercontent.com/ronthetech/image-repo/main/crow-cli.jpg" alt="crow cli">
+</p>
 Useful cli for data entry, data cleansing, etc.
 </pre>
 </div>

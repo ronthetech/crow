@@ -12,7 +12,7 @@ def display_title_bar():
 	print('\t*************************')
 	print('_________________________________________')
 
-def get_user_mode():
+def get_user_mode(): 
 
 	print('\n[1] Uppercase')
 	print('[2] Title Case')
@@ -24,7 +24,7 @@ def get_user_mode():
 
 def clean_up(inp):
 	splitInput = inp.split('-')
-	joinedInput = '/'.join(splitInput).replace(' / ','/').replace('/ ','/').replace(' /','/')
+	joinedInput = '/'.join(splitInput).replace(' / ','/').replace('/ ','/').replace(' /','/').replace(' ,','/').replace(', ','/')
 	return joinedInput
 
 def upperCase():
